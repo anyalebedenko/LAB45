@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.BLL\\NLayerApp.BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.BLL\\NLayerApp.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.BLL\\NLayerApp.BLL.csproj",
+        "projectName": "NLayerApp.BLL",
+        "projectPath": "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.BLL\\NLayerApp.BLL.csproj",
+        "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alexb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.DAL\\NLayerApp.DAL.csproj": {
+                "projectPath": "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.DAL\\NLayerApp.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.DAL\\NLayerApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.DAL\\NLayerApp.DAL.csproj",
+        "projectName": "NLayerApp.DAL",
+        "projectPath": "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.DAL\\NLayerApp.DAL.csproj",
+        "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alexb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

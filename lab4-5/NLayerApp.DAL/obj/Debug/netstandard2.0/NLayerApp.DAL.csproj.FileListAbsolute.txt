@@ -1,0 +1,43 @@
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.AssemblyInfoInputs.cache
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.AssemblyInfo.cs
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.deps.json
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.deps.json
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.AssemblyInfoInputs.cache
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.AssemblyInfo.cs
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.pdb
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.deps.json
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.pdb
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.csprojAssemblyReference.cache
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.AssemblyInfoInputs.cache
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.AssemblyInfo.cs
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.csproj.CoreCompileInputs.cache
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.deps.json
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.csprojAssemblyReference.cache
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.AssemblyInfoInputs.cache
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.AssemblyInfo.cs
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.deps.json
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.DAL\bin\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.csprojAssemblyReference.cache
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.AssemblyInfoInputs.cache
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.AssemblyInfo.cs
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.DAL\obj\Debug\netstandard2.0\NLayerApp.DAL.pdb

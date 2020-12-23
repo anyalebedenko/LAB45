@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRHEGCYn1gpFS59WqZHqGSpZ7hsRILn/a7spTU5kSDVXdje02zRSuvKzdgFVwdIXqE658UwkVeuwzlDsSLc3bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexb\\OneDrive\\Desktop\\Новая папка1\\Новая папка\\NLayerApp.DAL\\NLayerApp.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexb\\.nuget\\packages\\entityframework\\6.1.2\\entityframework.6.1.2.nupkg.sha512",
+    "C:\\Users\\alexb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"EntityFramework 6.1.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETStandard,Version=v2.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

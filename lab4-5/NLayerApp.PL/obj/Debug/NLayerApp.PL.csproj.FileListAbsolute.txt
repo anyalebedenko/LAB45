@@ -1,0 +1,538 @@
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.csprojAssemblyReference.cache
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.csproj.CoreCompileInputs.cache
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\NLayerApp.PL.dll.config
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\NLayerApp.PL.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\NLayerApp.PL.pdb
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\csc.exe
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\csc.exe.config
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\csc.rsp
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\csi.exe
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\csi.exe.config
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\csi.rsp
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.AppContext.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Console.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Net.Http.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\vbc.exe
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\vbc.exe.config
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\vbc.rsp
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Antlr3.Runtime.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\AutoMapper.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\EntityFramework.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\EntityFramework.SqlServer.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Newtonsoft.Json.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Ninject.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Mvc.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\NLayerApp.BLL.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.Helpers.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.Mvc.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.Optimization.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.Razor.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\WebGrease.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\NLayerApp.DAL.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\NLayerApp.BLL.pdb
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\AutoMapper.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\EntityFramework.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\EntityFramework.SqlServer.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Ninject.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Mvc.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.Helpers.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.Mvc.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.Optimization.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.Razor.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Newtonsoft.Json.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Antlr3.Runtime.pdb
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\NLayerApp.DAL.pdb
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.csproj.CopyComplete
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.csprojAssemblyReference.cache
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.csproj.CoreCompileInputs.cache
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.PL.dll.config
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.PL.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.PL.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csc.exe
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csc.exe.config
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csc.rsp
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csi.exe
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csi.exe.config
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csi.rsp
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.AppContext.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Console.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Net.Http.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\vbc.exe
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\vbc.exe.config
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\vbc.rsp
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Antlr3.Runtime.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\AutoMapper.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\EntityFramework.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\EntityFramework.SqlServer.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Newtonsoft.Json.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Mvc.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.BLL.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Helpers.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Mvc.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Optimization.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Razor.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\WebGrease.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.DAL.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.BLL.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\AutoMapper.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\EntityFramework.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\EntityFramework.SqlServer.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Mvc.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Helpers.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Mvc.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Optimization.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Razor.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Newtonsoft.Json.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Antlr3.Runtime.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.DAL.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.csproj.CopyComplete
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.PL.dll.config
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.PL.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.PL.pdb
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csc.exe
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csc.exe.config
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csc.rsp
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csi.exe
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csi.exe.config
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\csi.rsp
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.AppContext.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Collections.Immutable.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Console.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Globalization.Calendars.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.Compression.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.FileSystem.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Net.Http.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Net.Sockets.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Reflection.Metadata.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.ValueTuple.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.XPath.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\vbc.exe
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\vbc.exe.config
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\vbc.rsp
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\VBCSCompiler.exe
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\roslyn\VBCSCompiler.exe.config
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Antlr3.Runtime.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\AutoMapper.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\EntityFramework.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\EntityFramework.SqlServer.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Microsoft.Web.Infrastructure.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Newtonsoft.Json.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.WebHost.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Mvc.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.BLL.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Helpers.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Mvc.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Optimization.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Razor.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Deployment.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Razor.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\WebGrease.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.DAL.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.BLL.pdb
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\AutoMapper.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\EntityFramework.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\EntityFramework.SqlServer.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Common.WebHost.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Ninject.Web.Mvc.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Helpers.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Mvc.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Optimization.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Razor.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Deployment.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.WebPages.Razor.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Newtonsoft.Json.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Antlr3.Runtime.pdb
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\NLayerApp.DAL.pdb
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Helpers.resources.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Mvc.resources.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Optimization.resources.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.Razor.resources.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.WebPages.resources.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.csprojAssemblyReference.cache
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.csproj.CoreCompileInputs.cache
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.csproj.CopyComplete
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\obj\Debug\NLayerApp.PL.pdb
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Net.Http.Formatting.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Http.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Http.WebHost.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Net.Http.Formatting.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Http.xml
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.PL\bin\System.Web.Http.WebHost.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\NLayerApp.PL.dll.config
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\NLayerApp.PL.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\NLayerApp.PL.pdb
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\csc.exe
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\csc.exe.config
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\csc.rsp
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\csi.exe
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\csi.exe.config
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\csi.rsp
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.AppContext.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Console.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Net.Http.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\vbc.exe
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\vbc.exe.config
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\vbc.rsp
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Antlr3.Runtime.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\AutoMapper.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\EntityFramework.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\EntityFramework.SqlServer.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Newtonsoft.Json.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Ninject.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Ninject.Web.Common.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Ninject.Web.Mvc.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\NLayerApp.BLL.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Net.Http.Formatting.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Helpers.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Http.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Http.WebHost.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Mvc.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Optimization.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Razor.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.Razor.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\WebGrease.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\NLayerApp.DAL.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\NLayerApp.BLL.pdb
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\AutoMapper.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\EntityFramework.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\EntityFramework.SqlServer.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Ninject.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Ninject.Web.Common.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Ninject.Web.Mvc.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Net.Http.Formatting.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Http.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Http.WebHost.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Helpers.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Mvc.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Optimization.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.Razor.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.Razor.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Newtonsoft.Json.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Antlr3.Runtime.pdb
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\NLayerApp.DAL.pdb
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\ru\System.Web.Razor.resources.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\obj\Debug\NLayerApp.PL.csprojAssemblyReference.cache
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\obj\Debug\NLayerApp.PL.csproj.CoreCompileInputs.cache
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\obj\Debug\NLayerApp.PL.csproj.CopyComplete
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\obj\Debug\NLayerApp.PL.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.PL\obj\Debug\NLayerApp.PL.pdb
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\NLayerApp.PL.dll.config
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\NLayerApp.PL.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\NLayerApp.PL.pdb
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\csc.exe
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\csc.exe.config
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\csc.rsp
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\csi.exe
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\csi.exe.config
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\csi.rsp
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.AppContext.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Console.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Net.Http.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\vbc.exe
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\vbc.exe.config
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\vbc.rsp
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Antlr3.Runtime.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\AutoMapper.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\EntityFramework.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\EntityFramework.SqlServer.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Newtonsoft.Json.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Ninject.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Ninject.Web.Common.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Ninject.Web.Mvc.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\NLayerApp.BLL.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Net.Http.Formatting.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Helpers.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Http.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Http.WebHost.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Mvc.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Optimization.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Razor.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\WebGrease.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\NLayerApp.DAL.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\NLayerApp.BLL.pdb
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\AutoMapper.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\EntityFramework.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\EntityFramework.SqlServer.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Ninject.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Ninject.Web.Common.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Ninject.Web.Mvc.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Net.Http.Formatting.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Http.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Http.WebHost.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Helpers.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Mvc.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Optimization.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.Razor.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Newtonsoft.Json.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Antlr3.Runtime.pdb
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\NLayerApp.DAL.pdb
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\obj\Debug\NLayerApp.PL.csprojAssemblyReference.cache
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\obj\Debug\NLayerApp.PL.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\obj\Debug\NLayerApp.PL.csproj.CopyComplete
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\obj\Debug\NLayerApp.PL.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.PL\obj\Debug\NLayerApp.PL.pdb

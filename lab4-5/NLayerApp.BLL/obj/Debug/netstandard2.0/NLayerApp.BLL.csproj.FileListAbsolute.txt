@@ -1,0 +1,60 @@
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csprojAssemblyReference.cache
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfoInputs.cache
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfo.cs
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.deps.json
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.pdb
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csproj.CopyComplete
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.dll
+C:\Users\alexb\KPI\5sem\#\lab3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.deps.json
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csprojAssemblyReference.cache
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfoInputs.cache
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfo.cs
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csproj.CopyComplete
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.dll
+C:\Users\alexb\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.pdb
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.deps.json
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.pdb
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.DAL.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.DAL.pdb
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csprojAssemblyReference.cache
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfoInputs.cache
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfo.cs
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csproj.CoreCompileInputs.cache
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csproj.CopyComplete
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.dll
+E:\KPI\5sem\#\Ann\L3\NLayerApp\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.pdb
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.deps.json
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.pdb
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csprojAssemblyReference.cache
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfoInputs.cache
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfo.cs
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csproj.CopyComplete
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.dll
+C:\Users\DaniilMoroz\Desktop\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.pdb
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.deps.json
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.BLL.pdb
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.DAL.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\bin\Debug\netstandard2.0\NLayerApp.DAL.pdb
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csprojAssemblyReference.cache
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfoInputs.cache
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.AssemblyInfo.cs
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.csproj.CopyComplete
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.dll
+C:\Users\alexb\OneDrive\Desktop\Новая папка1\Новая папка\NLayerApp.BLL\obj\Debug\netstandard2.0\NLayerApp.BLL.pdb

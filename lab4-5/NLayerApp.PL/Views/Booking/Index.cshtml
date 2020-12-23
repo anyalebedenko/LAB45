@@ -1,0 +1,229 @@
+﻿
+
+
+<h2>Make Booking</h2>
+
+
+@*@using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <input type="hidden" name="Room" value="@Model.Id" />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PersonId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PersonId, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Id, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Id, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Date, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+            @Html.DisplayFor(model => model.Date, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="MakeBooking" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+    }*@
+
+
+
+<div id="tableBlock"></div>
+<div id="createBlock">
+    <h3>Бронирование номера</h3>
+    <table>
+        <tr><td><label>Имя: </label></td><td><input type="text" id="addName" /></td></tr>
+        <tr><td><label>Id номера(1-6): </label></td><td><input type="text" id="addId" /></td></tr>
+        <tr><td><label>Дата заезда (yyyy-MM-dd): </label></td><td><input type="text" id="addDate1" /></td></tr>
+        <tr><td><label>Дата выезда (yyyy-MM-dd): </label></td><td><input type="text" id="addDate2" /></td></tr>
+    </table>
+    <button id="addBooking">Забронировать</button>
+</div>
+<div id="editBlock">
+    <h3>Edit номера</h3>
+    <table>
+        <tr><td><input type="hidden" id="editBookingId" /></td><td></td></tr>
+        <tr><td><label>Имя: </label></td><td><input type="text" id="editName" /></td></tr>
+        <tr><td><label>Id номера(1-6): </label></td><td><input type="text" id="editId" /></td></tr>
+        <tr><td><label>Дата заезда (yyyy-MM-dd): </label></td><td><input type="text" id="editDateIn" /></td></tr>
+        <tr><td><label>Дата выезда (yyyy-MM-dd): </label></td><td><input type="text" id="editDateOut" /></td></tr>
+    </table>
+    <button id="editBooking">Edit</button>
+</div>
+
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        $(function () {
+
+            GetAllBookings();
+
+            $("#addBooking").click(function (event) {
+                event.preventDefault();
+                AddBooking();
+            });
+
+            $("#editBooking").click(function (event) {
+                event.preventDefault();
+                EditBooking();
+            });
+
+
+        });
+        // Получение всех броней по ajax-запросу
+        function GetAllBookings() {
+
+            $("#tableBlock").css('display', 'block');
+            $.ajax({
+                url: '/api/ValuesBooking',
+                type: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    WriteResponse(data);
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+        // Добавление новой брони
+        function AddBooking() {
+            // получаем значения для добавляемой брони
+            var booking = {
+                PersonName: $('#addName').val(),
+                RoomId: $('#addId').val(),
+                DateIn: $('#addDate1').val(),
+                DateOut: $('#addDate2').val()
+            };
+
+            $.ajax({
+                url: '/api/ValuesBooking',
+                type: 'POST',
+                data: JSON.stringify(booking),
+                contentType: "application/json;charset=utf-8",
+                success: function (data) {
+                    GetAllBookings();
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+        // Удаление брони
+        function DeleteBooking(id) {
+
+            $.ajax({
+                url: '/api/ValuesBooking/' + id,
+                type: 'DELETE',
+                contentType: "application/json;charset=utf-8",
+                success: function (data) {
+                    GetAllBookings();
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+        // редактирование брони
+        function EditBooking() {
+            var id = $('#editBookingId').val()
+            // получаем новые значения для редактируемой брони
+            var book = {
+                BookingId: $('#editBookingId').val(),
+                PersonName: $('#editName').val(),
+                RoomId: $('#editId').val(),
+                DateIn: $('#editDateIn').val(),
+                DateOut: $('#editDateOut').val()
+            };
+            $.ajax({
+                url: '/api/ValuesBooking/' + id,
+                type: 'PUT',
+                data: JSON.stringify(book),
+                contentType: "application/json;charset=utf-8",
+                success: function (data) {
+                    GetAllBookings();
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+        // вывод полученных данных на экран /////////////////////////////
+        function WriteResponse(books) {
+            var strResult = "<table><th>ID</th><th>Имя клиента</th><th>ID комнаты</th><th>Срок</th>";
+            $.each(books, function (index, booking) {
+                strResult += "<tr><td>" + booking.BookingId+"</td><td>" + booking.PersonName + "</td><td> " + booking.RoomId + "</td><td>" +
+                    booking.DateIn + "</td><td>" +
+                    booking.DateOut + " </td><td><a id='editItem' data-item='" + booking.BookingId + "' onclick='EditItem(this);'>Edit</a></td><td><a  onclick='DeleteBooking(" + booking.BookingId + "); '>Delete</a></td></tr> ";
+            });
+            strResult += "</table>";
+            $("#tableBlock").html(strResult);
+
+        }
+        // обработчик удаления
+        //function DeleteItem(el) {
+
+        //    // получаем id удаляемого объекта
+        //    var id = $(el).attr('data-item');
+        //    DeleteBooking(id);
+        //}
+        // обработчик редактирования
+        function EditItem(el) {
+
+            // получаем id редактируемого объекта
+            var id = $(el).attr('data-item');
+            GetBooking(id);
+        }
+        // вывод данных редактируемой брони в поля для редактирования
+        function ShowBooking(booking) {
+            if (booking != null) {
+                $("#createBlock").css('display', 'none');
+                $("#editBlock").css('display', 'block');
+                $('#editBookingId').val(booking.BookingId),
+                $("#editName").val(booking.PersonName);
+                $("#editId").val(booking.RoomId);
+                $("#editDateIn").val(booking.DateIn);
+                $("#editDateOut").val(booking.DateOut);
+            }
+            else {
+                alert("Такой брони не существует");
+            }
+        }
+        // запрос брони на редактирование ///////////////////
+        function GetBooking(id) {
+
+            $.ajax({
+                url: '/api/valuesBooking/' + id,
+                type: 'GET',
+                dataType: 'json',
+                success: function (data) {
+                    ShowBooking(data);
+                },
+                error: function (x, y, z) {
+                    alert(x + '\n' + y + '\n' + z);
+                }
+            });
+        }
+    </script>
+
+
+}

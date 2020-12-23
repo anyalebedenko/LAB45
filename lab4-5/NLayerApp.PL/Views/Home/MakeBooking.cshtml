@@ -1,0 +1,214 @@
+﻿
+
+<h2>Make Booking</h2>
+
+
+@*@using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <input type="hidden" name="Room" value="@Model.Id" />
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PersonId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PersonId, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Id, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Id, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Date, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+            @Html.DisplayFor(model => model.Date, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="MakeBooking" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+    }*@
+
+
+
+<div id="tableBlock"></div>
+<div id="createBlock">
+    <h3>Бронирование номера</h3>
+    <table>
+        <tr><td><label>Имя: </label></td><td><input type="text" id="addName" /></td></tr>
+        <tr><td><label>Id номера: </label></td><td><input type="text" id="addId" /></td></tr>
+        <tr><td><label>Срок: </label></td><td><input type="number" id="addDate" /></td></tr>
+    </table>
+    <button id="addBooking">Забронировать</button>
+</div>
+<div id="editBlock">
+    <h3>Бронирование номера</h3>
+    <table>
+        <tr><td><label>Имя: </label></td><td><input type="text" id="editName" /></td></tr>
+        <tr><td><label>Id номера: </label></td><td><input type="text" id="editId" /></td></tr>
+        <tr><td><label>Срок: </label></td><td><input type="number" id="editDate" /></td></tr>
+    </table>
+    <button id="addBooking">Забронировать</button>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        GetAllBookings();
+
+        $("#addBooking").click(function (event) {
+            event.preventDefault();
+            AddBooking();
+        });
+
+    });
+    // Получение всех броней по ajax-запросу
+    function GetAllBookings() {
+
+        $("#tableBlock").css('display', 'block');
+        $.ajax({
+            url: '/api/ValuesBooking',
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                WriteResponse(data);
+            },
+            error: function (x, y, z) {
+                alert(x + '\n' + y + '\n' + z);
+            }
+        });
+    }
+ // Добавление новой брони
+    function AddBooking() {
+        // получаем значения для добавляемой брони
+        var booking = {
+            PersonId: $('#addName').val(),
+            Id: $('#addId').val(),
+            Date: $('#addDate').val()
+        };
+
+        $.ajax({
+            url: '/api/valuesbooking',
+            type: 'POST',
+            data: JSON.stringify(booking),
+            contentType: "application/json;charset=utf-8",
+            success: function (data) {
+                GetAllBookings();
+            },
+            error: function (x, y, z) {
+                alert(x + '\n' + y + '\n' + z);
+            }
+        });
+    }
+ // Удаление брони
+    function DeleteBooking(id) {
+
+        $.ajax({
+            url: '/api/valuesbooking/' + id,
+            type: 'DELETE',
+            contentType: "application/json;charset=utf-8",
+            success: function (data) {
+                GetAllBookings();
+            },
+            error: function (x, y, z) {
+                alert(x + '\n' + y + '\n' + z);
+            }
+        });
+    }
+    // редактирование брони
+    function EditBooking() {
+        var id = $('#editId').val()
+        // получаем новые значения для редактируемой брони
+        var book = {
+            PersonId: $('#editName').val(),
+            Id: $('#editId').val(),
+            Date: $('#editDate').val(),
+        };
+        $.ajax({
+            url: '/api/valuesbooking/' + id,
+            type: 'PUT',
+            data: JSON.stringify(booking),
+            contentType: "application/json;charset=utf-8",
+            success: function (data) {
+                GetAllBookings();
+            },
+            error: function (x, y, z) {
+                alert(x + '\n' + y + '\n' + z);
+            }
+        });
+    }
+ // вывод полученных данных на экран /////////////////////////////
+    function WriteResponse(books) {
+        var strResult = "<table><th>ID</th><th>Имя клиента</th><th>ID комнаты</th><th>Срок</th>";
+        $.each(books, function (index, booking) {
+            strResult += "<tr><td>" + booking.PersonName + "</td><td> " + booking.RoomId + "</td><td>" +
+                booking.DateIn + 
+                "</td><td><a id='editItem' data-item='" + booking.Id + "' onclick='EditItem(this);' >Редактировать</a></td>" +
+            "<td><a id='delItem' data-item='" + booking.Id + "' onclick='DeleteItem(this);' >Удалить</a></td></tr>";
+        });
+        strResult += "</table>";
+        $("#tableBlock").html(strResult);
+
+    }
+    // обработчик удаления
+    function DeleteItem(el) {
+
+        // получаем id удаляемого объекта
+        var id = $(el).attr('data-item');
+        DeleteBooking(id);
+    }
+    // обработчик редактирования
+    function EditItem (el) {
+
+        // получаем id редактируемого объекта
+        var id = $(el).attr('data-item');
+        GetBooking(id);
+    }
+    // вывод данных редактируемой брони в поля для редактирования
+    function ShowBooking(booking) {
+        if (booking != null) {
+            $("#createBlock").css('display', 'none');
+            $("#editBlock").css('display', 'block');
+            $("#editName").val(booking.PersonId);
+            $("#editId").val(booking.Id);
+            $("#editDate").val(booking.Date);
+        }
+        else {
+            alert("Такой брони не существует");
+        }
+    }
+    // запрос брони на редактирование ///////////////////
+    function GetBooking(id) {
+
+        $.ajax({
+            url: '/api/values/' + id,
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                ShowBooking(data);
+            },
+            error: function (x, y, z) {
+                alert(x + '\n' + y + '\n' + z);
+            }
+        });
+    }
+</script>
+
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
